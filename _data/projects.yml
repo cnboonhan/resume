@@ -7,7 +7,7 @@
   description: | # this will include new lines to allow paragraphs
     I started this project to optimize development time. I often waste a large amount of time with repetitive work like typing boilerplate commands, googling for configurations, and consistently setting up new devices. This project aims to automate most of these inefficiencies away. 
 
-    This toolbox can quickly bring up docker containers to simulate multi-device environments. This is valuable when testing multi-device setups and reproducing bugs without physically setting up hardware.
+    This toolbox can quickly bring up docker containers to simulate multi-device environments. It can set up WiFi hotspots, Remote Desktop servers and fire up development interfaces configured with all the necessary tools at a single click. These shortcuts have greatly increased my development flow and productivity.
 
     This toolbox demonstrates my **familiarity** with various core skills in software develpoment.
 
