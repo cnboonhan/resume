@@ -18,7 +18,7 @@ about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   My name is Boon Han, and I love solving challenges. I want to solve the challenge of bringing robots to our daily lives. Currently, I am a Robotics Software Engineer in Singapore, developing tools and robot prototypes to help enable diverse forms of robotics work together in hospital settings via a [Robotics Middleware Framework](https://github.com/osrf/rmf_core). 
 
-  My strengths are a combination of DevOps expertise, C++/Python software development and Networking administration.
+  My strengths are a combination of DevOps expertise, C++/Python software development and Network administration.
 
   I have experience developing [wheeled](https://www.ubiquityrobotics.com/) robots, [manipulator](https://www.universal-robots.com/products/ur10-robot/) robots and embedded systems such as the [Pinetime Smartwatch](https://github.com/JF002/Pinetime).
 
