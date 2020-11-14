@@ -3,30 +3,26 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Charayaphan Nakorn Boon Han
+title: Software Engineer
+email: charayaphan.nakorn.boon.han@hmail.com
+website: cnboonhan94.github.io/resume
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
-# pinterest_username: jekyll
-youtube_username: globalmtb
-# googleplus_username: +jekyll
+github_username:  cnboonhan
+#linkedin_username: jameswgrant
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  My name is Boon Han, and I love solving challenges. I want to solve the challenge of bringing robots to our daily lives. Currently, I am a Robotics Software Engineer in Singapore, developing tools and robot prototypes to help enable diverse forms of robotics work together in hospital settings via a [Robotics Middleware Framework](https://github.com/osrf/rmf_core). 
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  My strengths are a combination of <mark>DevOps</mark> expertise, <mark>C++/Python</mark> software development and <mark>Networking</mark> administration.
+
+  I have experience developing [wheeled](https://www.ubiquityrobotics.com/) robots, [manipulator](https://www.universal-robots.com/products/ur10-robot/) robots and embedded systems such as the [Pinetime Smartwatch](https://github.com/JF002/Pinetime).
+
+  I deliver **robust** and **user-friendly** software from developer to end user by applying **rigorous testing** and **relentless automation**.
 
 # Projects Section
 # projects_title: Projects
