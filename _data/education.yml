@@ -1,10 +1,10 @@
 - layout: left
-  name: Harvard University
-  dates: 2010 - 2013
-  qualification: BSc Computer Science
-  quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+  name: University of Edinburgh
+  dates: 2015 - 2019
+  qualification: BEng Artificial Intelligence and Software Engineering
   description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+    During my time at UoE I learnt many key skills that have I have taken through my career, such as teamwork and working efficiently. I enthusiatically expanded my understanding of the complexity of robotics by taking multiple masters level courses in Reinforcement Learning, Deep Learning and Robotics Motor Control. 
 
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+    I also had the great opportunity to do an internship and also my final year honours project in the [Statistical Learning and Motor Control](http://web.inf.ed.ac.uk/slmc) Robotics Lab headed by [Professor Sethu Vijayakumar](https://scholar.google.com/citations?user=JdRs1sQAAAAJ&hl=en), which does cutting edge research in various aspects of robotic motor control.
+
+    I was in the executive committee of the *Edinburgh University Singapore Society*, and organized various events related to Singaporean culture.

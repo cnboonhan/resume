@@ -1,8 +1,39 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
+  name: Software Toolbox
+  link: https://github.com/cnboonhan/software-toolbox
   github: sproogen/resume-theme
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+    A collection of gems to improve software/hardware development and testing.
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    I started this project because I wanted to optimize development time. I identified that a large amount of time was wasted by repetitive work like typing boilerplate commands, googling for configurations, and consistently setting up new devices. This project aims to automate most of these inefficiencies away. 
+
+    This toolbox can also quickly bring up docker containers to simulate multi-device environments. This is invaluable when testing multi-device setups and reproducing bugs without physically setting up hardware.
+
+    This toolbox demonstrates my **familiarity** with various core skills in software develpoment.
+
+- layout: top-middle
+  name: ROS2 BLE Bridge
+  link: https://github.com/cnboonhan/ble_bridge_ros2
+  github: sproogen/resume-theme
+  quote: >
+    A quick way to connect Bluetooth Low Energy devices to ROS2.
+  description: | # this will include new lines to allow paragraphs
+    Bluetooth Low Energy is a promising technology due to its low power consumption and increasing range. There is potential value in using these low cost, low energy devices for various use cases. This project expands a developers arsenal of tools for prototyping new ideas by providing a simple way to connect to BLE devices over the Robot Operating System 2 (ROS2) communication stack.
+
+- layout: top-middle
+  name: WebAssembly Projects
+  link: https://cnboonhan.github.io/webassembly_projects/
+  github: sproogen/resume-theme
+  quote: >
+    Near native performance over the Web, using C++, WebAssembly, CMake, Dear ImGui (UI).
+  description: | # this will include new lines to allow paragraphs
+    C++ is extremely powerful and versatile. However, it is challenging to distribute as it is architecture specific and has a complex build process. WebAssembly promises to handle this by allowing near-native performance in Web browsers. I am enthusiastically exploring the possibilities of WebAssembly, and curate my explorations in this ongoing project.
+
+- layout: top-middle
+  name: SafeEntryBot
+  link: https://github.com/cnboonhan/SafeEntryBot
+  github: sproogen/resume-theme
+  quote: >
+    Telegram Bot for easier Safe Entry Access
+  description: | # this will include new lines to allow paragraphs
+    Due to COVID-19, Singapore has implemented SafeEntry, a mandatory QR-Code based check-in system at most building entrances, in order to implement contact tracing. However, each person is required to manually scan a QR code, which is slow and slows down human traffic in crowded areas. This Telegram Bot idea aims to host an online database of QR codes, allowing an end user to type in their destination to retrieve the corresponding QR code, without having to stop and scan. This telegram bot is hosted on a Heroku free plan server, and is live at @SafeEntryBot ( try it! ).

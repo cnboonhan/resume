@@ -5,8 +5,8 @@ favicon: images/favicon.ico
 # Personal info
 name: Charayaphan Nakorn Boon Han
 title: Software Engineer
-email: charayaphan.nakorn.boon.han@hmail.com
-website: cnboonhan94.github.io/resume
+email: charayaphan.nakorn.boon.han@gmail.com
+website: cnboonhan.github.io/resume
 
 # Social links
 github_username:  cnboonhan
@@ -18,11 +18,13 @@ about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   My name is Boon Han, and I love solving challenges. I want to solve the challenge of bringing robots to our daily lives. Currently, I am a Robotics Software Engineer in Singapore, developing tools and robot prototypes to help enable diverse forms of robotics work together in hospital settings via a [Robotics Middleware Framework](https://github.com/osrf/rmf_core). 
 
-  My strengths are a combination of <mark>DevOps</mark> expertise, <mark>C++/Python</mark> software development and <mark>Networking</mark> administration.
+  My strengths are a combination of DevOps expertise, C++/Python software development and Networking administration.
 
   I have experience developing [wheeled](https://www.ubiquityrobotics.com/) robots, [manipulator](https://www.universal-robots.com/products/ur10-robot/) robots and embedded systems such as the [Pinetime Smartwatch](https://github.com/JF002/Pinetime).
 
-  I deliver **robust** and **user-friendly** software from developer to end user by applying **rigorous testing** and **relentless automation**.
+  I have 2 years experience in delivering **robust**, **user-friendly** products from developer to end users via **rigorous testing**, **relentless automation** and **good software design**.
+
+  <mark>C++</mark> <mark>CMake</mark> <mark>Python</mark> <mark>ROS/ROS2</mark> <mark>Docker</mark> <mark>CI</mark> <mark>VNC</mark> <mark>Navigation</mark> <mark>Networks</mark> <mark>DevOps</mark> <mark>Tests</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -36,11 +38,11 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  Alongside my interests in good software development, I am also interested in:
+   - Swimming
+   - Cycling
+   - Hiking
+   - Consuming Nutrients
 
 # Footer
 footer_show_references: true

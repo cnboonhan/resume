@@ -1,9 +1,24 @@
 - layout: left
-  company: The Boring Company
-  link: boringcompany.com
-  job_title: Senior Network System Administrator
-  dates: November 2017 - Present
+  company: Centre for Healthcare, Assistive and Robotics Technology
+  link: https://www.cgh.com.sg/chart
+  job_title: Robotics Engineer
+  dates: June 2019 - Present
   quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+    Architecting and testing multi-robot systems in healthcare scenarios and use cases.
   description: | # this will include new lines to allow paragraphs
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+    My work is focused on operating, testing, debugging and maintaining multi-robot systems. This project is large and requires a significant scope of expertise. I am involved in almost all technical aspects, such as
+      1. Development of [Robotics Middleware Framework](github.com/osrf/rmf_core) packages for various robots and infrastructure
+      2. Network administration and troubleshooting
+      3. Full stack development of autonomous mobile robots and manipulator robots
+      4. Continuous Integration and automation methods
+      5. Software maintenence to reduce technical debt and bit rot, and improve usability
+      6. Creating reproducible bug reports 
+      7. Gazebo simulation development
+      8. Integration of various sensors and medical devices
+
+    Through the projects I have also been able to **contribute to open source projects**:
+      1. User interface for [`rmf_demos`](https://github.com/osrf/rmf_demos/pull/45)
+      2. Debugging [`Fast-DDS`](https://github.com/eProsima/Fast-DDS/issues/1261)
+      3. Unit Tests for [`rmf_core`](https://github.com/osrf/rmf_core/pull/2)
+      4. Improving Python bindings for [`rmf_fleet_adapter_python`](https://github.com/osrf/rmf_fleet_adapter_python/pull/6)
+
