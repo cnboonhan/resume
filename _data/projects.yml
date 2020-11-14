@@ -5,9 +5,9 @@
   quote: >
     A collection of gems to improve software/hardware development and testing.
   description: | # this will include new lines to allow paragraphs
-    I started this project because I wanted to optimize development time. I identified that a large amount of time was wasted by repetitive work like typing boilerplate commands, googling for configurations, and consistently setting up new devices. This project aims to automate most of these inefficiencies away. 
+    I started this project to optimize development time. I often waste a large amount of time with repetitive work like typing boilerplate commands, googling for configurations, and consistently setting up new devices. This project aims to automate most of these inefficiencies away. 
 
-    This toolbox can also quickly bring up docker containers to simulate multi-device environments. This is invaluable when testing multi-device setups and reproducing bugs without physically setting up hardware.
+    This toolbox can quickly bring up docker containers to simulate multi-device environments. This is valuable when testing multi-device setups and reproducing bugs without physically setting up hardware.
 
     This toolbox demonstrates my **familiarity** with various core skills in software develpoment.
 
@@ -18,7 +18,7 @@
   quote: >
     A quick way to connect Bluetooth Low Energy devices to ROS2.
   description: | # this will include new lines to allow paragraphs
-    Bluetooth Low Energy is a promising technology due to its low power consumption and increasing range. There is potential value in using these low cost, low energy devices for various use cases. This project expands a developers arsenal of tools for prototyping new ideas by providing a simple way to connect to BLE devices over the Robot Operating System 2 (ROS2) communication stack.
+    Bluetooth Low Energy is a promising technology due to its low power consumption, decent range and mesh capabilities. There is potential value in using these low cost, low energy devices for various use cases. This project expands a developers arsenal of tools for prototyping new ideas by providing a simple way to connect to BLE devices over the Robot Operating System 2 (ROS2) communication stack.
 
 - layout: top-middle
   name: WebAssembly Projects
