@@ -25,7 +25,7 @@
   link: https://cnboonhan.github.io/webassembly_projects/
   github: sproogen/resume-theme
   quote: >
-    Near native performance over the Web, using C++, WebAssembly, CMake, Dear ImGui (UI).
+    Near native performance over the Web, using C++ and WebAssembly
   description: | # this will include new lines to allow paragraphs
     C++ is extremely powerful and versatile. However, it is challenging to distribute as it is architecture specific and has a complex build process. WebAssembly promises to handle this by allowing near-native performance in Web browsers. I am enthusiastically exploring the possibilities of WebAssembly, and curate my explorations in this ongoing project.
 
