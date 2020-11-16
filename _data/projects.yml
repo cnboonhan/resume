@@ -42,4 +42,4 @@
   description: | # this will include new lines to allow paragraphs
     Due to COVID-19, Singapore has implemented SafeEntry, a mandatory QR-Code based check-in system at most building entrances, in order to implement contact tracing. However, each person is required to manually scan a QR code, which is slow and slows down human traffic in crowded areas. This Telegram Bot idea aims to host an online database of QR codes, allowing an end user to type in their destination to retrieve the corresponding QR code, without having to stop and scan. This telegram bot is hosted on a Heroku free plan server, and is live at @SafeEntryBot ( try it! ).
 
-    This project demonstrates my experience with **quick prototyping**nd **cloud based computations**.
+    This project demonstrates my experience with **quick prototyping** and **cloud based computations**.
